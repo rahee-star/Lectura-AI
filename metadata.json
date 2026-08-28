@@ -1,0 +1,6 @@
+{
+  "name": "Lectura AI Lecture Study Companion",
+  "description": "Record and transcribe lectures, filter tangents, formulate structured study notes with deep research, flashcards, quizzes, and essay grading.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
